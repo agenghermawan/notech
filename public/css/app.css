@@ -1,0 +1,10 @@
+body {
+    font-family: Figtree, ui-sans-serif, system-ui, sans-serif,
+        Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+table.dataTable th.dt-type-numeric,
+table.dataTable thead th,
+table.dataTable td.dt-type-numeric {
+    text-align: center !important;
+}
